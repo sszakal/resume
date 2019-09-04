@@ -1,19 +1,71 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# PREVIOUS PROJECTS
+# Universal Music Group
+- company: Universal Music Group
+  duration: 10/2017 &mdash; 06/2019
+  summary: "Rights System (greenfield): The rights workspace is primarily used by the legal department to capture rights from legal contracts, 
+  artist-level information, royalties and to publish these to downstream systems. I developed numerous components for capturing rights, extended
+  the application with new contract types and built migration components for extracting data from the old rights system."
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Red Deer
+- company: Red Deer
+  duration: 05/2017 &mdash; 08/2017
+  summary: "Red Deer System (brownfield): The RD system is a state-of-the-art daily tool for fund managers to make skilful investment decisions, 
+  it organises and connects a vast amount data into one unified stream of events. I developed a feature extractor engine for various system 
+  documents and events (i.e. broker research) which would be used as a base for a recommender system (machine learning). Also, I have extended 
+  the in-memory database query engine with new calculations and queries, refactored the permissions system, enabled single-sign-on authentication 
+  using the SAML protocol and worked on developing an accountancy/user usage tracking system that would help investment managers to comply with the MiFID regulations."
 
+# London & Quadrant
+- company: London & Quadrant
+  duration: 07/2015 &mdash; 03/2017
+  summary: "GPIH Project (greenfield): L&Q manages over 70,000 homes across the capital and the South East and is one of London's largest developer of new homes. 
+  Part of a business transformation programme I had the task to design bespoke software systems to support the delivery of key services and to digitalize business processes.
+  For this assignment, I have used the Agile Scrum development framework and I have implemented a large number of features, to enumerate a few:: business workflows, ranking of 
+  potential buyers and tenants based on their income and historical data and incorporated features like auditing, resource-based authorization and access control lists, 
+  integrate with 3rd party software systems and adapt the systems to comply with the General Data Protection Regulations (GDPR)."
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# British Sky Broadcasting
+- company: British Sky Broadcasting
+  duration: 03/2014 &mdash; 04/2015
+  summary: "Virgin Media VOD Migration Project (brownfield): BSS is a large and complex distributed system that serves over 800 active users and holds all broadcasting scheduling information, 
+  serves as a repository for programmes and commercials, manages media slot acquisition, and is responsible for ensuring that transmission schedules are ready to air. BSS is also a key enabler 
+  of both products such as Video-On-Demand (VOD), and services such as Sky HD Movies. My first project was to migrate Virgin Media VOD services from a third-party system to an internal platform 
+  which required changes at all levels in the software stack.
+
+  Inventory Management Project (greenfield): AdSmart is a revolutionary product for TV advertising, with AdSmart different ads can be shown to different households watching the same TV channel. 
+  Households can be selected based on factors such as age, location or lifestyle to build marketing campaigns. I built a business intelligence tool called IMS that allows the AdSmart sales teams 
+  to forecast the delivery of impressions (actual views) for new marketing campaigns based on historical data captured by the setup box and by simulating competing campaigns that would overlap 
+  with the household segment and period in which the new campaign would be running.
+
+  FAE Project (brownfield): The Flexible Allocation Engine (FAE) is responsible with the prioritisation of AdSmart ads that are passed over to Sky’s TV boxes in the form of hint schedules. 
+  I have implement times series forecasting algorithms and fine tune the prioritisation algorithm in such way that it maximises profits by minimising the difference between the campaigns’ target 
+  number of impressions and the actual impressions delivered."
+
+# Arvato Bertelsmann
+- company: Arvato Bertelsmann
+  duration: 11/2012 &mdash; 02/2014
+  summary: "BINS Project (greenfield): Developed a scheduling tool for the environmental services department to plan the collection of rubbish bins across the county. I have integrated the application 
+  with ArcGIS Map to allow the configuration of routes from a map view and with the public facing council website to provide the bin collection dates for each property/postcode.
+  
+  MDC 360 Project (greenfield): Built a website for the HR department to conduct employee surveys. The application allowed the HR staff to create custom surveys and send invitations to employees for a 
+  360-degree feedback process, while the invitee can send feedback forms to peers and managers."
+
+# Victoria Plumb
+- company: Victoria Plumb
+  duration: 03/2012 &mdash; 08/2012
+  summary: "DMS Project (greenfield): Delivered a shipping system and integrated it with the call centre software used internally by the company and by the main website to make bookings for the delivery 
+  of goods with various package carriers in a way that would minimise the delivery cost and time."
+
+# The University of Hull
+- company: The University of Hull
+  duration: 06/2011 &mdash; 09/2011
+  summary: "Keyforth Project (greenfield): During the course of the dissertation module, which is an industrial placement program done through SEED Software, I have integrated shipping, tracking and 
+  proof of delivery functionality into an existing system for major package carriers (UPS, FedEx, DHL), localisation feature to allow the system to support multiple languages, a mechanism to restrict 
+  the access for a carrier to a specific user and to provide a flexible design that would easily allow the incorporation of new carriers and functionality into the system."
+
+# Continental Automotive VDO
+- company: Continental Automotive VDO
+  duration: 06/2011 &mdash; 09/2011
+  summary: "Projects/Modules: EEPROM Memory Configurator for Mercedes, Auxiliary Heater module for Porsche Panamera, Text Widget for Porsche. I have engineered software components for ECUs found today 
+  in cars produced by Mercedes and Porsche and built cross-compilers to speed up the process of writing software for embedded systems. Part of a research project I’ve also developed a framework to perform 
+  runtime measurements on the target microcontroller for integration and performance testing."
