@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Stefan Szakal"
-resume_title:                   "Contractor - Angular/.NET Full Stack Software Developer"
+resume_title:                   ".NET Software Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "stefan.szakal@clusterfig.com"
