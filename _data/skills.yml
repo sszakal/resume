@@ -1,31 +1,31 @@
 # Skills
 
 # Languages, Paradigms, Frameworks and Software practices
-- skill: Languages, Paradigms, Frameworks and Software practices
-  description: Object Oriented Programming (OOP), KISS, DRY, YAGNI and Design Patterns, Domain Driven-Design (DDD), CQS, CQRS, Event Sourcing, Dependency Injection (DI) 
-  and Inversion of Control (IoC), Functional Programming, Asynchronous Programming Model, Reactive Applications, Multithreading and Parallel Programming, Cloud Design Patterns, 
-  Continuous Integrations (CI) and Continuous Deployment (CD), Test Driven-Development (TDD), Behaviour Driven-Development (BDD).
+- skill: "Languages, Paradigms, Frameworks and Software practices"
+  description: "Object Oriented Programming (OOP), KISS, DRY, YAGNI and Design Patterns, Domain Driven-Design (DDD), CQS, CQRS, Event Sourcing, Dependency Injection (DI) 
+  and Inversion of Control (IoC), Functional Programming, Asynchronous Programming Model, Reactive Applications, Multithreading and Parallel Programming, Cloud Design Patterns,
+  Continuous Integrations (CI) and Continuous Deployment (CD), Test Driven-Development (TDD), Behaviour Driven-Development (BDD)."
 
 # Front-end
-- skill: Front-end
-  description: TypeScript, JavaScript, Bootstrap, Angular, Jasmine, Selenium
+- skill: "Front-end"
+  description: "TypeScript, JavaScript, Bootstrap, Angular, Jasmine, Selenium"
 
 # Back-end
-- skill: Communications strategy
-  description: C#, SQL, ASP.NET MVC/ Web API, NancyFX, SignalR, WCF, WWF, LINQ,
+- skill: "Back-end"
+  description: "C#, SQL, ASP.NET MVC/ Web API, NancyFX, SignalR, WCF, WWF, LINQ,
   Reactive Extensions/Rx.NET, TPL, TopShelf, Entity Framework (EF), Dapper, Unity, 
   StructureMap, AutoMapper, EasyNetQ, NServiceBus, Serilog, Specflow, Coded UI Tests, 
-  NUnit, MS Test, XUnit, Moq, Code Contracts
+  NUnit, MS Test, XUnit, Moq, Code Contracts"
 
 # Messiging/Queues
-- skill: Messiging/Queues
-  description: RabbitMQ, MSMQ
+- skill: "Messiging/Queues"
+  description: "RabbitMQ, MSMQ"
 
 # Data Storage
-- skill: Data Storage
-  description: SQL Server, Oracle, RavenDB, MySQL, NoSQL
+- skill: "Data Storage"
+  description: "SQL Server, Oracle, RavenDB, MySQL, NoSQL"
 
 # Development Tools
-- skill: Development Tools
-  description: Visual Studio, Visual Studio Code, Resharper, NCrunch, SQL Management Studio, 
-  Red Gate SQL Tools, TFS, Git, Mercurial, TeamCity, Octopus, VSTS
+- skill: "Development Tools"
+  description: "Visual Studio, Visual Studio Code, Resharper, NCrunch, SQL Management Studio, 
+  Red Gate SQL Tools, TFS, Git, Mercurial, TeamCity, Octopus, VSTS"
