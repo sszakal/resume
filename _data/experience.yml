@@ -3,37 +3,46 @@
 - company: Universal Music Group
   duration: 10/2017 &mdash; 06/2019
   summary: 
+  position: Contractor
 
 # Red Deer
 - company: Red Deer
   duration: 05/2017 &mdash; 08/2017
   summary: 
+  position: Contractor
   
 # London & Quadrant
 - company: London & Quadrant
   duration: 07/2015 &mdash; 03/2017
   summary: 
+  position: Contractor
   
 # British Sky Broadcasting
 - company: British Sky Broadcasting
   duration: 03/2014 &mdash; 04/2015
   summary: 
+  position: .NET Developer
   
 # Arvato Bertelsmann
 - company: Arvato Bertelsmann
   duration: 11/2012 &mdash; 02/2014
   summary: 
+  position: IT Officer
+  
 # Victoria Plumb
 - company: Victoria Plumb
   duration: 03/2012 &mdash; 08/2012
   summary: 
+  position: Web Developer
   
 # The University of Hull
 - company: The University of Hull
   duration: 06/2011 &mdash; 09/2011
   summary: 
+  position: Developer
   
 # Continental Automotive VDO
 - company: Continental Automotive VDO
   duration: 06/2011 &mdash; 09/2011
   summary: 
+  position: Embedded Software Developer
